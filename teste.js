@@ -7,3 +7,24 @@ console.log(a);
 
 console.log("Testando conflitos no git")
 console.log("....")
+
+console.log("Testando conflitos no git")
+console.log("....")
+
+console.log("Testando conflitos no git")
+console.log("....")
+
+console.log("Testando conflitos no git")
+console.log("....")
+
+console.log("Testando conflitos no git")
+console.log("....")
+
+console.log("Testando conflitos no git")
+console.log("....")
+
+console.log("Testando conflitos no git")
+console.log("....")
+
+console.log("Testando conflitos no git")
+console.log("....")
